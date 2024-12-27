@@ -1,23 +1,106 @@
-![logo](https://github.com/Shilpa1329/Shilpa1329/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm SHILPA KALRA</h1>
-<h3 align="center">A passionate Python developer from India</h3>
+<h1 align="center">Hi there! 👋 I'm Shilpa Kalra</h1>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.lowgif.com/full/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shilpa1329&label=Profile%20views&color=0e75b6&style=flat" alt="shilpa1329" /> </p>
-
-- 🌱 I’m currently learning **Django RESTFUL API**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Shilpa1329](https://github.com/Shilpa1329)
-
-- 📫 How to reach me **kalrashilpa1329@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shilpa kalra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shilpa kalra" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=shilpa1329&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shilpa1329&show_icons=true&locale=en&layout=compact" alt="shilpa1329" /></p>
+## 💻 Tech Focus
+
+Here’s what I specialize in across various projects:
+
+### 🚀 Frontend
+- **HTML, CSS, JavaScript**: Crafting modern and responsive UIs.
+- **Tailwind CSS**: Designing sleek and customizable styles with utility-first CSS.
+- **React.js**: Building interactive and dynamic web applications.
+- **MUI & DaisyUI**: Enhancing designs with prebuilt components and customizations.
+
+### ⚙️ Backend
+- **Node.js & Express.js**: Creating robust server-side applications.
+- **Django Framework**: Developing secure and scalable web apps with Python.
+- **API Integration**: Seamless integration of RESTful APIs.
+
+### 🗄️ Databases
+- **MongoDB**: Efficient and scalable NoSQL database solutions.
+- **MySQL**: Leveraging relational databases for structured data.
+
+### 🛠️ Others
+- **Socket.IO**: Real-time communication for chat and notifications.
+- **Version Control**: Git & GitHub for collaborative development.
+- **Chart.js**: Data visualization made simple.
+
+![Tech Stack](https://img.shields.io/badge/Tech-React%20%7C%20Tailwind%20CSS%20%7C%20Django%20%7C%20Node.js%20%7C%20MongoDB-blue?style=flat&logo=code)
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/sk1329/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
+  </a>
+</p>
+
+---
+
+## 👩‍💻 My Portfolio
+Check out my projects and works on my portfolio:  
+[Shilpa's Portfolio](https://shilpa29-portfolio.netlify.app)
+
+
+---
+
+## ⚙️ Languages and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
+
+## 🎯 Developer Stats & Highlights
+<p align="center">
+  <!-- Code Quality -->
+  <img src="https://img.shields.io/badge/Code%20Quality-High-brightgreen?style=flat&logo=codecov&logoColor=white" alt="Code Quality"/>
+  
+  <!-- Completed Projects -->
+  <img src="https://img.shields.io/badge/Completed%20Projects-15%2B-blue?style=flat&logo=github&logoColor=white" alt="Completed Projects"/>
+
+  <!-- Technologies -->
+  <img src="https://img.shields.io/badge/Tech%20Stack-React%20%7C%20Node.js%20%7C%20Django%20%7C%20Tailwind%20CSS-yellow?style=flat&logo=react&logoColor=white" alt="Technologies"/>
+  
+  <!-- Code Reviews -->
+  
+</p>
+
+---
+
+## 🛠️ Technologies & Tools
+<p align="center">
+  <!-- Individual Technologies -->
+  <img src="https://img.shields.io/badge/React-16.3%2B-brightgreen?style=flat&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-%2014%2B-lightblue?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-2.0%2B-purple?style=flat&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Django-%203.0%2B-blue?style=flat&logo=django&logoColor=white" alt="Django"/>
+</p>
+
+
+
+
+
+
+---
+
+## ✨ Developer's Motto
+Code your dreams into reality.
+
